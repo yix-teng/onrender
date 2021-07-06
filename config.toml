@@ -1,0 +1,4 @@
+baseURL = "https://homedesig8-exoslo.vercel.app"
+languageCode = "en-us"
+title = "Home Design Minimalism"
+theme = "hugo-theme-minos"
